@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Pang",
+      "species": "Panda",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "11"
     }
   ]
 }
